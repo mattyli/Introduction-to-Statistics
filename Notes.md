@@ -1,4 +1,10 @@
-# Notes
+## Notes
+### Commands
+To open an R console:
+```
+    CTRL + SHIFT + S
+```
+
 ### Variables
 use the '=' operator to assign a value to a variable
 ```R
