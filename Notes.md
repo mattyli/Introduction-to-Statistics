@@ -26,3 +26,8 @@ plot() - for plotting data
 ```R
     plot(xData, yData)      # basic syntax, other parameters you may enter as well
 ```
+
+subset() - generate subset of given data given a few parameters
+```R
+    subset(originalData, condition)
+```
