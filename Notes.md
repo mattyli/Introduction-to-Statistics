@@ -5,6 +5,11 @@ To open an R console:
     CTRL + SHIFT + S
 ```
 
+Use '$' to access individuals columns of a dataframe
+```R
+    dataSet$DataPrint
+```
+
 ### Variables
 use the '=' operator to assign a value to a variable
 ```R
