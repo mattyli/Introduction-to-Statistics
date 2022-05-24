@@ -16,6 +16,12 @@ use the '=' operator to assign a value to a variable
     apple = 2
 ```
 
+can be combined to produce a dataframe of values in one column, based on the values of another column
+```R
+    sampleDF <- df$Time[df$Employee == "Ben"]
+    # sampleDF gets the dataframe time values where the employee is "Ben"
+```
+
 ### Useful Functions
 sample() - given a vector and N, will select a random sample of size N from the given vector
 ```R
