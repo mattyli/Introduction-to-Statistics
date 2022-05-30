@@ -21,3 +21,4 @@ growth = c(1.79,1.01,0.71,1.59,1.41,1.15,1.03,1.2,1.2)
 
 # Q5 - plotting the data from Q4
 plot(peroxide, growth, pch=19, xlab="Hydrogen Peroxide Concentration", ylab="Fungus Growth", main="Fungus Growth compared to Hydrogen Peroxide Concentration")
+

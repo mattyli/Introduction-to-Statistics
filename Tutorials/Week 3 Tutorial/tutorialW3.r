@@ -23,6 +23,7 @@ print(d2WeightMean)
 print(d3WeightMean)
 print(d4WeightMean)
 
+
 # the scatterplot for diet 3, put into variables for cleanliness
 xAxis <- d3Sub$Time         # another dataframe containing all x values for scatter
 yAxis <- d3Sub$Weight
