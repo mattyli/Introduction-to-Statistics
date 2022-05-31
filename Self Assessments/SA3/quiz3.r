@@ -7,3 +7,4 @@ x <- myData$CO2Concentration
 y <- myData$CO2Uptake
 
 boxplot(y~x, xlab="plant", ylab="CO2 uptake")
+
