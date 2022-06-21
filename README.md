@@ -21,7 +21,7 @@ I chose to use jupyter notebook for most of my work as it easily integrates the 
 should you choose not to use it, you may stop here. 
 
 3. Install languageserver
-    - execute ``` install.packages("languageserver")
+    - execute ``` install.packages("languageserver") ```
 4. Install IRkernel - (MAKE SURE YOU HAVE JUPYTER INSTALLED)
     - execute ``` install.packages("IRkernel") ```
     - execute ``` IRkernel::installspec() ```
