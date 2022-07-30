@@ -37,3 +37,12 @@ subset() - generate subset of given data given a few parameters
 ```R
     subset(originalData, condition)
 ```
+
+boxplot() - generate boxplots
+```R
+    boxplot(x~y, data)  # x is variable of interest across levels of y, y is categoric
+```
+
+## T Tests
+t.test(data, ref_value, alternative=none)
+
